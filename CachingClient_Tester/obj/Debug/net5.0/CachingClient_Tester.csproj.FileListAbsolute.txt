@@ -1,0 +1,16 @@
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.exe
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.deps.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.runtimeconfig.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.runtimeconfig.dev.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\ref\CachingClient_Tester.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\bin\Debug\net5.0\CachingClient_Tester.pdb
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.csproj.AssemblyReference.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.AssemblyInfoInputs.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.AssemblyInfo.cs
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.csproj.CoreCompileInputs.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\ref\CachingClient_Tester.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.pdb
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingClient_Tester\obj\Debug\net5.0\CachingClient_Tester.genruntimeconfig.cache

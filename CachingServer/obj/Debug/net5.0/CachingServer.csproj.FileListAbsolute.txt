@@ -1,0 +1,16 @@
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.exe
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.deps.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.runtimeconfig.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.runtimeconfig.dev.json
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\ref\CachingServer.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\bin\Debug\net5.0\CachingServer.pdb
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.csproj.AssemblyReference.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.AssemblyInfoInputs.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.AssemblyInfo.cs
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.csproj.CoreCompileInputs.cache
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\ref\CachingServer.dll
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.pdb
+D:\Ruppin\Year D\SemesterB\Interviews\RavenDB\CachingServer\obj\Debug\net5.0\CachingServer.genruntimeconfig.cache

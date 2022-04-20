@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CachingClient_Tester/1.0.0": {
+        "runtime": {
+          "CachingClient_Tester.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CachingClient_Tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
