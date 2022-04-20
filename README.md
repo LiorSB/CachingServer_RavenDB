@@ -12,5 +12,5 @@ The dictionary holds the key and value, in case a set command is entered with th
 The queue will hold keys.<br/>
 If the application has surpassed 128 MB in values, then keys will be dequeued from the queue which will be used to remove their value from the dictionary until there is enough room for the next value to enter.<br/>
 The tester will run 100 clients each calling 100 set commands asynchronously.<br/>
-<br/><br/>
+
 https://user-images.githubusercontent.com/92099051/164186434-dbb6742a-690e-4b4a-bf57-95de3de3ac85.mp4
