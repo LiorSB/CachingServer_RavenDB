@@ -5,7 +5,7 @@ CachingServer_Tester - Is a client tester used to verify asynchronous work done 
 <br/><br/>
 To provide a TCP connection I used the class TcpListener and entered 127.0.0.1 which is the local host and the specified port (10011).<br/>
 The application can handle concurrent connections with the help of Tasks which can execute a work asynchronously.<br/>
-On all commands I took the assumption that they end with “\r\n” as specified in the question except for entering they key’s value that continues immediately after the specified size_in_bytes have been met.<br/>
+On all commands I took the assumption that they end with “\r\n” as specified in the question except for entering the key’s value that continues immediately after the specified size_in_bytes have been met.<br/>
 Because the set value doesn’t include “\r\n” to the end of it I’ve changed “OK\r\n” to “\r\nOK\r\n” (see comments in lines 18-20 in CachingServer/Program.cs).<br/>
 To store the data, I’ve used a dictionary and a queue.<br/>
 The dictionary holds the key and value, in case a set command is entered with the same key then the last previous value will be overridden.<br/>
