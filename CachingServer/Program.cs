@@ -126,26 +126,29 @@ namespace CachingServer
 
             lock (_synchronizeClients)
             {
+               if (_dataByKey.ContainsKey(key))
+                {
+                    _totalBytes -= _dataByKey[key].Length;
+                    _dataByKey.Remove(key);
+                }
+
                 // Delete values from cache until there is enough space for the new value.
                 while (_totalBytes + currentBytes > MAX_BYTES)
                 {
                     string keyToDelete = _keysQueue.Dequeue();
-                    _totalBytes -= _dataByKey[keyToDelete].Length;
-                    _dataByKey.Remove(keyToDelete);
-                    //Console.WriteLine($"Deleted Key: {keyToDelete}");
-                }
 
-                _totalBytes += currentBytes;
-
-                if (_dataByKey.ContainsKey(key))
-                {
-                    _dataByKey[key] = dataValue;
+                    // Key may not be present, if we replaced it in line 134 due to recieving a key that already exists.
+                    if (_dataByKey.ContainsKey(keyToDelete))
+                    {
+                        _totalBytes -= _dataByKey[keyToDelete].Length;
+                        _dataByKey.Remove(keyToDelete);
+                        //Console.WriteLine($"Deleted Key: {keyToDelete}");
+                    }
                 }
-                else
-                {
-                    _dataByKey.Add(key, dataValue);
-                }
+                
+                 _totalBytes += currentBytes;
 
+                _dataByKey.Add(key, dataValue);
                 _keysQueue.Enqueue(key);
             }
 
